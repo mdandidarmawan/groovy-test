@@ -1,0 +1,5 @@
+variable1=line1
+variable2=line2
+variable3=line3
+variable4=line4
+variable5=line5
